@@ -21,7 +21,7 @@ I'm Lavish pal, a pre final year Computer Science Undergrad student learning Dev
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lavishpal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishpal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ## 🏆 GitHub Trophies
