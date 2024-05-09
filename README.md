@@ -1,5 +1,5 @@
 # Hello, World!
-I'm Lavish pal, a pre final year Computer Science Undergrad student learning DevOps.<br>I'm looking to collaborate on open-source projects<br>I'm interested in Linux, Docker, Cloud, and DevOps<br>I love documenting my tech journey, you can read my blogs on [Hashnode](https://lavishblog.hashnode.dev/)<br>Ask me about Cloud native and Free and Open Source Software(FOSS) 
+I'm Lavish pal, a pre final year Computer Science Undergrad student learning DevOps.<br>I'm looking to collaborate on open-source projects<br>I love documenting my tech journey, you can read my blogs on [Hashnode](https://lavishblog.hashnode.dev/)<br>Ask me about Cloud native and Free and Open Source Software(FOSS) 
 
 ## Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-pal-678165220)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lavishpal408)  
