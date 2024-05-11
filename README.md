@@ -20,7 +20,11 @@ I'm Lavish pal, a pre final year Computer Science Undergrad student learning Dev
 
 
 # 📊 GitHub Stats:
-<a> ![](https://github-readme-streak-stats.herokuapp.com/?user=lavishpal&theme=dark&hide_border=false) 
+<a> ![](https://github-readme-streak-stats.herokuapp.com/?user=lavishpal&theme=dark&hide_border=false)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=onlydole&show_icons=true&theme=transparent" />
+
 
 
 
