@@ -9,7 +9,6 @@ I'm Lavish pal, a pre final year Computer Science Undergrad pursuing my bachelor
 
 
 # 📊 GitHub Stats:
-<a> ![](https://github-readme-streak-stats.herokuapp.com/?user=lavishpal&theme=dark&hide_border=false)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lavishpal&show_icons=true&theme=transparent" />
@@ -18,8 +17,6 @@ I'm Lavish pal, a pre final year Computer Science Undergrad pursuing my bachelor
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lavishpal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 
 
