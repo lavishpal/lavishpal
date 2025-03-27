@@ -1,5 +1,5 @@
 # Hi there!
-I'm Lavish pal, a pre final year Computer Science Undergrad pursuing my bachelor's from IIMT College of Engineering, India.<br>I am passionate about everything  DevOps and all Cloud Native Technologies and tools and give back by contributing to open source and communities.<br>I also try to share my learnings about CNCF projects, DevOps, Open Source, etc on  [Hashnode](https://lavishblog.hashnode.dev/) 
+I'm Lavish pal, a final year Computer Science Undergrad pursuing my bachelor's from IIMT College of Engineering, India.<br>I am passionate about everything  DevOps and all Cloud Native Technologies and tools and give back by contributing to open source and communities.<br>I also try to share my learnings about CNCF projects, DevOps, Open Source, etc on  [Hashnode](https://lavishblog.hashnode.dev/) 
 
 ## Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-pal-678165220)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lavishpal408)  
