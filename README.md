@@ -4,11 +4,7 @@ I'm Lavish pal, a final year Computer Science Undergrad pursuing my bachelor's f
 ## Socials
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavish-pal-678165220)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lavishpal408)  
 
-## Personal Interests
-📚 Outside of my professional pursuits, I have a passion for reading and exploring the fascinating world of literature. 
-
-
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lavishpal&show_icons=true&theme=transparent" />
