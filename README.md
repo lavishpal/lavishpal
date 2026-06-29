@@ -19,7 +19,7 @@
 - [LFX Mentorship Experience: Kuberenetes](https://lavishblog.hashnode.dev/lfx-mentorship-experience-kubernetes)
 - [Argo Rollouts for DevOps Engineer](https://devtron.ai/blog/argo-rollouts/)
 - [Accessing everything in Kubernetes Cluster using RESTAPI Calls](https://lavishblog.hashnode.dev/accessing-everything-in-kubernetes-cluster-using-restapi-calls?utm_source=hashnode&utm_medium=feed)
-- [https://lavishblog.hashnode.dev/demystify-the-kubeconfig-file?utm_source=hashnode&utm_medium=feed](https://lavishblog.hashnode.dev/demystify-the-kubeconfig-file?utm_source=hashnode&utm_medium=feed)
+- [Demystify the kubeconfig file](https://lavishblog.hashnode.dev/demystify-the-kubeconfig-file?utm_source=hashnode&utm_medium=feed)
 
 ---
 
