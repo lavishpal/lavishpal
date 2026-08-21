@@ -5,6 +5,7 @@
 - Reviewer @Kubernetes, contributor @etcd
 - Open source developer and DevOps engineer working with CNCF projects
 - Former LFX Mentee at [Kubernetes](https://github.com/kubernetes-sigs/reference-docs)
+- Currently building the Custom policy engine for stateless workloads
 
 ### Talks
 
